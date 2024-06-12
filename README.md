@@ -52,7 +52,7 @@ BlogFriday&BlogFriend는 AI 챗봇과 블로그형 쇼핑몰 웹사이트를 결
 ## 설치 및 실행 방법
 1. 필요한 종속성을 설치합니다: Spring Boot 종속성 설치
 - `mvn install`
-2 React 종속성 설치
+2. React 종속성 설치
 - `cd frontend`
 - `npm install`
 3. 데이터베이스를 설정하고 필요한 테이블을 생성합니다.
